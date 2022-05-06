@@ -4,3 +4,6 @@ resource aws_vpc "vpc1"{
   tags={ "Name" = "kish-vpc1"
        }
   }
+
+
+kishu

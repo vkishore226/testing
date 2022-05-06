@@ -15,3 +15,6 @@ resource "aws_subnet" "sn2" {
     Name = "sn2"
   }
 }
+
+
+new line is added in subnets
